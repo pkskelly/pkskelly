@@ -5,8 +5,7 @@
 ### Hi there 👋
 
 - 💼 I work at [ThreeWill](https://threewill.com) as VP of Technology where we help customers "Work Together Better" using Microsoft 365 and Azure
-- 💻 I'm part of the Atlanta area community and frequently speak, organize, or attend local Atlanta Community events.
-- 💻 I'm one of the co-organizers of the Atlanta SharePoint and Office 365 MeetUp
+- 💻 I'm a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp
 - :shipit: I try to contribute to OSS when I can and have a few contributions to Microsoft 365 Patterns and Practices projects
 - ⌨️ ✍️ I share my experiences and thoughts on my blog at [https://peteskelly.com](https://peteskelly.com)
 - 💬 Ask me about Microsoft 365 and Azure cloud dev
