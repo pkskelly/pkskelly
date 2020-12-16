@@ -11,7 +11,7 @@
 - 💬 Ask me about Microsoft 365 and Azure cloud dev
 - 📫 You can reach me on [Twitter](https://twitter.com/pskelly) or [LinkedIn](https://www.linkedin.com/in/peterskelly/) or [my blog](https://peteskelly.com)
 - :golf: I would almost always rather be golfing!
-- :notebook: Fun fact: Wrote my first "Hello World" on a TRS-80 in 1984 
+- :notebook: Fun fact: Wrote my first "Hello World" on a TRS-80 in the early 1980's 
 
 
 <!--
