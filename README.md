@@ -9,7 +9,8 @@
 - :shipit: I try to contribute to OSS when I can and have a few contributions to Microsoft 365 Patterns and Practices projects
 - ⌨️ ✍️ I share my experiences and thoughts on my blog at [https://peteskelly.com](https://peteskelly.com)
 - 💬 Ask me about Microsoft 365 and Azure cloud dev
-- 📫 You can reach me on [Twitter](https://twitter.com/pskelly) or [LinkedIn](https://www.linkedin.com/in/peterskelly/) or [my blog](https://peteskelly.com)
+- 🐦 [![Twitter](https://img.shields.io/twitter/follow/pskelly?label=Follow%20%40pskelly&style=social)](https://twitter.com/pskelly)
+- 📫 You can also reach me on or [LinkedIn](https://www.linkedin.com/in/peterskelly/) or [my blog](https://peteskelly.com)
 - :golf: I would almost always rather be golfing!
 - :notebook: Fun fact: Wrote my first "Hello World" on a TRS-80 in the early 1980's 
 
