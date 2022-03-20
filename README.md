@@ -4,11 +4,11 @@
 
 ### Hi there 👋
 
-- 💼 I work at [ThreeWill](https://threewill.com) as VP of Technology where we help customers "Work Together Better" using Microsoft 365 and Azure
-- 💻 I'm a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp
-- :shipit: I try to contribute to OSS when I can and have a few contributions to Microsoft 365 Patterns and Practices projects
+- 💼 I work at [Transport4](https://www.transport4.com) as a Software Development Manager
+<!-- - 💻 I'm a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp-->
 - ⌨️ ✍️ I share my experiences and thoughts on my blog at [https://peteskelly.com](https://peteskelly.com)
-- 💬 Ask me about Microsoft 365 and Azure cloud dev
+- :shipit: I try to contribute to OSS when I can and have a few contributions to Microsoft 365 Patterns and Practices projects
+<!-- - 💬 Ask me about Microsoft 365 and Azure cloud dev -->
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/pskelly?label=Follow%20%40pskelly&style=social)](https://twitter.com/pskelly)
 - 📫 You can also reach me on or [LinkedIn](https://www.linkedin.com/in/peterskelly/) or [my blog](https://peteskelly.com)
 - :golf: I would almost always rather be golfing!
