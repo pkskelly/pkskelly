@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-- 💼 I work at [Transport4](https://www.transport4.com) as VP of Product Engineering
-<!-- - 💻 I'm a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp-->
+- 💼 I have worked at [Transport4](https://www.transport4.com) as VP of Product Engineering, [ThreeWill, LLC](https://threewill.com/) as VP of Technology 
+<!-- - 💻 I have been a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp-->
 - ⌨️ ✍️ I share my experiences and thoughts on my blog at [https://peteskelly.com](https://peteskelly.com)
 - :shipit: I try to contribute to OSS when I can
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/pskelly?label=Follow%20%40pskelly&style=social)](https://twitter.com/pskelly)
