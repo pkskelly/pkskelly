@@ -8,7 +8,6 @@
 <!-- - 💻 I have been a frequent speaker / organizer / attendee of Atlanta Community events including co-organizing the Atlanta SharePoint and Office 365 MeetUp-->
 - ⌨️ ✍️ I share my experiences and thoughts on my blog at [https://peteskelly.com](https://peteskelly.com)
 - :shipit: I try to contribute to OSS when I can
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/pskelly?label=Follow%20%40pskelly&style=social)](https://twitter.com/pskelly)
 - 📫 You can also reach me on or [LinkedIn](https://www.linkedin.com/in/peterskelly/) or [my blog](https://peteskelly.com)
 - :golf: I would almost always rather be golfing!
 - :notebook: Fun fact: Wrote my first "Hello World" on a TRS-80 in the early 1980's 
